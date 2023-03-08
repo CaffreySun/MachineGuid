@@ -1,6 +1,6 @@
 name: machine_guid
 description: This is a Dart tool used to retrieve the Machine GUID of a Windows system.
-version: 0.1.0
+version: 0.2.0
 repository: https://github.com/CaffreySun/MachineGuid
 
 environment:
